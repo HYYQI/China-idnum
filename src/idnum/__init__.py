@@ -25,7 +25,7 @@ adcode csv file: 20250328
 
 def get_address_map() -> dict:
     # 数据来自腾讯位置服务(https://lbs.qq.com/service/webService/webServiceGuide/search/webServiceDistrict#9)
-    data_dir = Path(__file__).parent / 'idnum.data'
+    data_dir = Path(__file__).parent / 'data'
     file_path = data_dir / "dc_20250328.csv"
     with file_path.open(newline="", encoding="utf-8") as file:
         codes = csv.reader(file)

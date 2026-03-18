@@ -154,6 +154,11 @@ secrets/
 *.auth
 *.token
 
+# 示例文件
+demo.*
+
+
+
 # 如果项目需要数据文件，可以这样保留：
 # 保留数据目录和CSV文件
 !idnum/data/
