@@ -1,0 +1,47 @@
+{
+  "program": "China-idnum 身份证查询系统",
+  "version": "1.1.4",
+  "export_time": "2026-03-18 14:47:36",
+  "total_records": 1,
+  "results": [
+    {
+      "query_time": "2026-03-18 14:46:57",
+      "name": "yjm",
+      "id_number": "230523200503302512",
+      "basic_info": {
+        "name": "yjm",
+        "id_number": "230523200503302512",
+        "gender": "Male",
+        "gender_cn": "男"
+      },
+      "address_info": {
+        "address_code": "230523",
+        "province": "中国,黑龙江省",
+        "city": "中国,黑龙江省,双鸭山市",
+        "district": "中国,黑龙江省,双鸭山市,宝清县",
+        "full_address": "中国,黑龙江省中国,黑龙江省,双鸭山市中国,黑龙江省,双鸭山市,宝清县"
+      },
+      "birth_info": {
+        "birth_code": "20050330",
+        "year": "2005",
+        "month": "03",
+        "day": "30",
+        "formatted_date": "2005年03月30日",
+        "age": 20,
+        "constellation": "双鱼座",
+        "zodiac": "鸡"
+      },
+      "other_info": {
+        "sequence_code": "251",
+        "sequence_number": 251,
+        "check_digit": "2",
+        "is_valid": true
+      },
+      "validation": {
+        "is_valid": true,
+        "check_digit": "2",
+        "verification_status": "通过"
+      }
+    }
+  ]
+}

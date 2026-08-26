@@ -1,0 +1,47 @@
+{
+  "program": "China-idnum 身份证查询系统",
+  "version": "1.1.4",
+  "export_time": "2026-03-18 20:56:39",
+  "total_records": 1,
+  "results": [
+    {
+      "query_time": "2026-03-18 20:56:37",
+      "name": "佩奇",
+      "id_number": "230106200910304111",
+      "basic_info": {
+        "name": "佩奇",
+        "id_number": "230106200910304111",
+        "gender": "Male",
+        "gender_cn": "男"
+      },
+      "address_info": {
+        "address_code": "230106",
+        "province": "中国,黑龙江省",
+        "city": "中国,黑龙江省,哈尔滨市",
+        "district": "未知",
+        "full_address": "中国,黑龙江省中国,黑龙江省,哈尔滨市未知"
+      },
+      "birth_info": {
+        "birth_code": "20091030",
+        "year": "2009",
+        "month": "10",
+        "day": "30",
+        "formatted_date": "2009年10月30日",
+        "age": 16,
+        "constellation": "天秤座",
+        "zodiac": "牛"
+      },
+      "other_info": {
+        "sequence_code": "411",
+        "sequence_number": 411,
+        "check_digit": "1",
+        "is_valid": true
+      },
+      "validation": {
+        "is_valid": true,
+        "check_digit": "1",
+        "verification_status": "通过"
+      }
+    }
+  ]
+}

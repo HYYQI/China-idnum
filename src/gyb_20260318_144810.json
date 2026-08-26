@@ -1,0 +1,47 @@
+{
+  "program": "China-idnum 身份证查询系统",
+  "version": "1.1.4",
+  "export_time": "2026-03-18 14:48:10",
+  "total_records": 1,
+  "results": [
+    {
+      "query_time": "2026-03-18 14:48:04",
+      "name": "gyb",
+      "id_number": "231224200608180153",
+      "basic_info": {
+        "name": "gyb",
+        "id_number": "231224200608180153",
+        "gender": "Male",
+        "gender_cn": "男"
+      },
+      "address_info": {
+        "address_code": "231224",
+        "province": "中国,黑龙江省",
+        "city": "中国,黑龙江省,绥化市",
+        "district": "中国,黑龙江省,绥化市,庆安县",
+        "full_address": "中国,黑龙江省中国,黑龙江省,绥化市中国,黑龙江省,绥化市,庆安县"
+      },
+      "birth_info": {
+        "birth_code": "20060818",
+        "year": "2006",
+        "month": "08",
+        "day": "18",
+        "formatted_date": "2006年08月18日",
+        "age": 19,
+        "constellation": "巨蟹座",
+        "zodiac": "狗"
+      },
+      "other_info": {
+        "sequence_code": "015",
+        "sequence_number": 15,
+        "check_digit": "3",
+        "is_valid": true
+      },
+      "validation": {
+        "is_valid": true,
+        "check_digit": "3",
+        "verification_status": "通过"
+      }
+    }
+  ]
+}
